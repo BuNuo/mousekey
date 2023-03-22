@@ -1,0 +1,4 @@
+# robots.txt
+User-agent: *
+Sitemap: https://www.mousekey.cn/sitemapxml/index.xml
+Sitemap: https://www.mousekey.cn/sitemap/index.html
